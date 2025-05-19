@@ -41,3 +41,5 @@ selected_features = ['period', 'first_tooltip']
 sns.pairplot(df[selected_features])
 plt.suptitle("Pairplot of Selected Features", y=1.02)
 plt.show()
+
+
