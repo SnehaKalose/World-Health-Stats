@@ -17,4 +17,4 @@ This repository contains a collection of Machine Learning models for various tas
    - matplotlib
    - Seaborn
    - numpy 
-5. 
+
