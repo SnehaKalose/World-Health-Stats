@@ -9,7 +9,7 @@ This repository contains a collection of Machine Learning models for various tas
    - Classification
    - Regression
    - Clustering
-3. Useage
+3. Usage
 4. Tools Used
    - PowerBI for Dashboard
    - Sciket Learn
